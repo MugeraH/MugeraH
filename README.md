@@ -3,7 +3,7 @@
 <p>My name is <b>Hughes Mugera<b> </p>
 <p>I am a Fullstack Software Engineer, with a keen interest in web development/design and data</p>
 
-<p>I also hold a BSc in Computer Science(Informatics)  </p>
+<p>I hold a BSc in Computer Science(Informatics)  </p>
 
 <ul>
 
